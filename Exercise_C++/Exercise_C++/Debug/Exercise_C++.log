@@ -1,0 +1,41 @@
+﻿生成启动时间为 2018/3/14 星期三 下午 6:24:20。
+     1>项目“E:\test\C_PlusPlus\Exercise_C++\Exercise_C++\Exercise_C++.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Exercise_C++.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\visual studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main_file.cpp
+         Main_file.cpp
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\binarytree.h(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\binarytree.h(80): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\binarytree.h(81): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\binarytree.h(114): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(100): warning C4101: “tem”: 未引用的局部变量
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(126): warning C4101: “j”: 未引用的局部变量
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(214): warning C4101: “k”: 未引用的局部变量
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(214): warning C4101: “j”: 未引用的局部变量
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(237): warning C4101: “j”: 未引用的局部变量
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(305): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(404): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(532): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(534): warning C4172: 返回局部变量或临时变量的地址
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(579): warning C4101: “j”: 未引用的局部变量
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\some.h(149): warning C4715: “find”: 不是所有的控件路径都返回值
+     1>e:\test\c_plusplus\exercise_c++\exercise_c++\main_file.cpp(239): warning C4715: “countWays”: 不是所有的控件路径都返回值
+       Link:
+         F:\visual studio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Exercise_C++.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.lib" /MACHINE:X86 Debug\Main_file.obj
+         LINK : 没有找到 E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.exe 或上一个增量链接没有生成它；正在执行完全链接
+            正在创建库 E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.lib 和对象 E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.exp
+         Exercise_C++.vcxproj -> E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\test\C_PlusPlus\Exercise_C++\Debug\Exercise_C++.exe;#1" /manifest Debug\Exercise_C++.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Exercise_C++.unsuccessfulbuild”。
+         正在对“Debug\Exercise_C++.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\test\C_PlusPlus\Exercise_C++\Exercise_C++\Exercise_C++.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.65
